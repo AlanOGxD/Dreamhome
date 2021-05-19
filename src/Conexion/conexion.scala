@@ -1,3 +1,5 @@
+package Conexion
+
 import java.sql.{Connection, DriverManager}
 
 object conexion extends App{

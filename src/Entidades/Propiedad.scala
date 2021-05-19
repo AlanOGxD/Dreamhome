@@ -1,0 +1,7 @@
+
+
+package Entidades
+
+object Propiedad {
+  
+}
