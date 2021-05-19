@@ -3,5 +3,8 @@
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="src/mssql-jdbc-9.2.1.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_281/lib/ext/mssql-jdbc-9.2.1.jre8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
