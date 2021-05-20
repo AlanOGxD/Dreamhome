@@ -46,7 +46,7 @@ class PropiedadesExtensas(private var PropertyNo:String, var street:String, priv
   def getsucuarsal() = sucursal
   def getcliente() = cliente
   def getfechavisita() = fechavisita
-  
+   
   def setPropertyNo(propertyno:String){ PropertyNo = propertyno }
   def setstreet(street1:String){ street = street1 }
   def setcity(city1:String){ city = city1 }
