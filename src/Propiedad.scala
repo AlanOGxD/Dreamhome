@@ -39,7 +39,7 @@ class PropiedadesExtensas(private var PropertyNo:String, var street:String, priv
   def getcity() = city
   def getpostcode() = postcode
   def gettypes() = types
-  def getrooms() = rooms
+  def getrooms() = rooms 
   def getrent() = rent
   def getpropietario() = propietario 
   def getpersonal() = personal
