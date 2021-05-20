@@ -1,5 +1,0 @@
-
-
-object Entidade extends App {
-  
-}
