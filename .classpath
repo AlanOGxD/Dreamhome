@@ -6,5 +6,7 @@
 	<classpathentry kind="lib" path="src/mssql-jdbc-9.2.1.jre8.jar"/>
 	<classpathentry kind="lib" path="src/mssql-jdbc-9.2.1.jre11.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_281/lib/ext/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aochi/Desktop/scala-library-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aochi/Desktop/scala-swing-2.10.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
